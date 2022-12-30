@@ -1,3 +1,7 @@
 module.exports = {
-    MONGOURI: "mongodb+srv://Aniket:Bonsai1304@atlascluster.zawtqsk.mongodb.net/?retryWrites=true&w=majority"
+    MONGOURI: "mongodb+srv://Pikachu:Pikachu12345@cluster0.tfsfp3h.mongodb.net/?retryWrites=true&w=majority"
 }
+
+
+//connect to mongodb in node.js?
+
